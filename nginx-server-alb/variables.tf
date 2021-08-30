@@ -15,8 +15,8 @@ variable "public_subnet_cidr" {
 
 
 variable "ami" {
-  description = "Ubuntu 16.04.7 AMI"
-  default = "ami-00d8aabe6ce5d7dfb"
+  description = "Ubuntu 18.04.7 AMI"
+  default = "ami-0650ec2a12946c040"
 }
 
 variable "key_path" {
